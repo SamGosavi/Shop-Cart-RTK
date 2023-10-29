@@ -1,0 +1,5 @@
+{
+    "emmet.optimizeStylesheetParsing": true,
+    "tailwindCSS.suggestions": true,
+    "javascript.suggest.enabled": true
+}
